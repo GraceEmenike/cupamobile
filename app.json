@@ -1,7 +1,8 @@
 {
   "expo": {
-    "name": "cupamobile",
-    "slug": "cupamobile",
+    "name": "cupamobiledev",
+    "slug": "cupamobile-dev",
+    "description": "This is the first release for cupa.",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
